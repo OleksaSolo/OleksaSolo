@@ -11,8 +11,10 @@
     #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook
 
 2. https://github.com/OleksaSolo/ds_EDA
-Exploratory data analysis - EDA. 
-It is the process of researching and analyzing data in order to understand its structure and visualize useful information that may be hidden in the data. This approach is an important step before any analytical project, as it allows you to identify patterns and regularities in the data, as well as identify potential problems and inaccuracies that may affect the results of the analysis.
+
+   Exploratory data analysis - EDA.
+
+   It is the process of researching and analyzing data in order to understand its structure and visualize useful information that may be hidden in the data. This approach is an important step before any analytical project, as it allows you to identify patterns and regularities in the data, as well as identify potential problems and inaccuracies that may affect the results of the analysis.
 
 
 <!--
