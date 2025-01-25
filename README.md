@@ -2,7 +2,13 @@
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Data Science
-- 
+# Python Data Science. 
+1. https://github.com/OleksaSolo/ds_introduction
+   
+    Introduction to Data Science.
+
+    #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook
+2. 
 <!--
 **OleksaSolo/OleksaSolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
