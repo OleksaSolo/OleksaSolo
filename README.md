@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Data Science
+- 
 <!--
 **OleksaSolo/OleksaSolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
