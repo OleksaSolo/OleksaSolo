@@ -3,10 +3,25 @@
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Data Science
 
+# Python core.
+
+   My Python core Steps
+
+    https://github.com/OleksaSolo/Python_core
+
+# Python Web.
+
+   My Python Web Steps
+
+    https://github.com/OleksaSolo/Python_web
+
 # Python Data Science.
 
    My Data Science Steps
-https://github.com/OleksaSolo/Python_data_science
+
+    https://github.com/OleksaSolo/Python_data_science
+
+
 
 
 
